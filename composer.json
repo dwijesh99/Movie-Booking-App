@@ -1,0 +1,12 @@
+{
+    "name": "dwijesh/movie-ticket-booking-website-php-and-mysql",
+    "authors": [
+        {
+            "name": "Dwijesh saikia",
+            "email": "dwijeshsaikiah@gmail.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^7.76"
+    }
+}
